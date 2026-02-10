@@ -11,6 +11,7 @@ Features:
 
 
 Laten space of first epoch:
+
 ![example](befor.png)
 
 Laten space of tenth epoch:
